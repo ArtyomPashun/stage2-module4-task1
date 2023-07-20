@@ -14,6 +14,7 @@ public class Employee {
     private String carNumber;
 
     public Employee() {
+        //this constructor was added by the developer of this task
     }
 
     public String getName() {
